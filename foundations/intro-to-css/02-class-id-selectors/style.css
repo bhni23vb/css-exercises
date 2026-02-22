@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.What-are-the-odds {
+
+    background-color:pink;
+    font-family: Verdana, Verdana, DejaVu, sans-serif;
+}
+
+#Special-two {
+
+    color:blue;
+    font-size:36px
+
+}
+
+.What-are-the-odds.super-three {
+
+    font-size:24px
+}

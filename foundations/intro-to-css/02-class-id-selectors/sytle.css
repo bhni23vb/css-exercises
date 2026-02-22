@@ -1,0 +1,25 @@
+.What-are-the-odds {
+
+    background-color:pink;
+    font-family: Verdana, Verdana, DejaVu, sans-serif;
+}
+
+#Special-two {
+
+    color:blue;
+    font-size: 36px;
+
+}
+
+.What-are-the-odds.Super-three {
+
+    font-size: 24px;
+}
+
+#Special-four{
+
+        background-color:lightgreen;
+        font-size: 24px;
+        font-weight:bold;
+
+}
